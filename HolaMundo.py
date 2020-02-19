@@ -2,4 +2,4 @@
 
 mensaje = input("Hola mundo")
 
-print(mensaje)
+print(f"{mensaje} como estan?")
